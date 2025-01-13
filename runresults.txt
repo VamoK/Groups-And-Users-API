@@ -1,0 +1,10 @@
+[13:16:08] Access token saved to config.json
+[13:16:09] user vamokuhle.khumalo.admin written successfully
+[13:16:10] Group "Public" for user vamokuhle.khumalo.admin written successfully
+[13:16:10] Group "testing" for user vamokuhle.khumalo.admin written successfully
+[13:16:13] Role Organization Administrator for user vamokuhle.khumalo.admin written successfully
+[13:16:13] Role IP - Administrator for user vamokuhle.khumalo.admin written successfully
+[13:16:13] Role Default Organization role for user vamokuhle.khumalo.admin written successfully
+[13:16:13] Role IP - Default Functions for user vamokuhle.khumalo.admin written successfully
+[13:16:13] user vamokuhle.khumalo written successfully
+[13:16:22] Group "Public" for user vamokuhle.khumalo written successfully
